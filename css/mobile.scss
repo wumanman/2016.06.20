@@ -1,0 +1,246 @@
+html{
+    font-size: 20px;
+}
+.wrap{
+    background: #ffefe6;
+    width: 16rem;
+    .banner{
+        width: 16rem;
+        img{
+            width: 16rem;
+        }
+    }
+    .banner_min{
+        width: 15.7rem;
+        margin: auto;
+        img{
+            width: 100%;
+        }
+    }
+    .text{
+        padding:0.25rem 0;
+        text-align: center;
+        a{
+            font-size: 0.6rem;
+            line-height: 0.62rem;
+            color: #fff;
+
+        }
+    }
+}
+.wrap{
+    img{
+        width: 100%;
+    }
+}
+.cen{
+    width: 15.7rem;
+    margin: auto;
+
+}
+
+.bg{
+    background: #e21325;
+}
+.fll{
+    float: left;
+}
+.flr{
+    float: right;
+}
+.pd_b10{
+    padding-bottom: 0.25rem;
+}
+.dc{
+    padding:0.15rem 0 0.15rem 0;
+    .cen{
+        padding: 0.825rem 0.4rem;
+        box-sizing: border-box;
+        background: #ffbc00;
+        border-radius: 20px;
+        .pro{
+            margin-left:-0.05rem;
+           li{
+               float: left;
+               width: 7.42rem;
+               height: 8.32rem;
+               overflow: hidden;
+               margin-left:0.05rem;
+               img{
+                   width: 100%;
+               }
+           }
+        }
+    }
+}
+.ts_title{
+
+}
+.ts{
+    padding:0.15rem 0 0.15rem 0;
+    .cen{
+        background: #4adc61;
+        padding: 0.825rem 0.4rem;
+        box-sizing: border-box;
+        border-radius: 20px;
+        .tit{
+            text-align: center;
+            height: 0.89rem;
+            padding-top: 0.2rem;
+            margin-top: -0.8rem;
+            img{
+                height: 100%;
+                width: auto;
+                display: inline-block;
+                vertical-align: top;
+            }
+        }
+        .pro{
+            li{
+                float: left;
+                width: 7.40rem;
+                height: 8.32rem;
+                overflow: hidden;
+                img{
+                    width: 100%;
+                }
+            }
+
+        }
+    }
+
+}
+.bn{
+    padding:0.15rem 0 0.15rem 0;
+    .cen{
+        background: #ffbedf;
+        padding: 0.825rem 0.4rem;
+        box-sizing: border-box;
+        border-radius: 20px;
+        .tit{
+            text-align: center;
+            height: 0.89rem;
+            padding-top: 0.2rem;
+            margin-top: -0.8rem;
+            img{
+                height: 100%;
+                width: auto;
+                display: inline-block;
+                vertical-align: top;
+            }
+        }
+        .pro{
+            li{
+                float: left;
+                width: 7.4rem;
+                height: 9rem;
+                overflow: hidden;
+                img{
+                    width: 100%;
+                }
+            }
+
+        }
+    }
+}
+.bn{
+    padding:0.15rem 0 0.15rem 0;
+    .cen{
+        background: #ffbedf;
+        padding: 0.825rem 0.4rem;
+        box-sizing: border-box;
+        border-radius: 20px;
+        .tit{
+            text-align: center;
+            height: 0.89rem;
+            padding-top: 0.2rem;
+            margin-top: -0.8rem;
+            img{
+                height: 100%;
+                width: auto;
+                display: inline-block;
+                vertical-align: top;
+            }
+        }
+        .pro{
+            li{
+                float: left;
+                width: 7.4rem;
+                height: 6.8rem;
+                overflow: hidden;
+                img{
+                    width: 100%;
+                }
+            }
+
+        }
+    }
+}
+.dc{
+    .pro{
+        li{
+            width: 7.4rem;
+            height: 6.7rem;
+        }
+    }
+}
+.star{
+    .cen{
+        ul{
+            margin-left: -0.125rem;
+            li{
+                margin-left: 0.05rem;
+                float: left;
+                width: 7.67rem;
+                height: 4rem;
+                overflow: hidden;
+
+            }
+        }
+    }
+}
+.list{
+    .cen{
+        ul{
+            margin: -0.25rem 0 0 -0.25rem;
+            li{
+                margin: 0.25rem 0 0 0.25rem;
+                float: left;
+                width: 7.625rem;
+                height: 10.25rem;
+                overflow: hidden;
+
+            }
+        }
+    }
+}
+.footer_h{
+    .cen{
+        ul{
+            margin-left:-0.25rem;
+            li{
+                margin-left:0.25rem;
+                float: left;
+                width: 5rem;
+                height: 4.125rem;
+                overflow: hidden;
+            }
+        }
+    }
+}
+.cba{
+    width:100px;
+}
+.abc{
+    width: 300px;
+}
+
+.img_tag{
+    position: relative;
+}
+
+
+
+
+
+
